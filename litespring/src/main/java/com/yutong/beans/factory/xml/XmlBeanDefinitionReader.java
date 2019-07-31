@@ -5,9 +5,7 @@ import com.yutong.beans.factory.BeanDefinitionStoreException;
 import com.yutong.beans.factory.support.BeanDefinitionRegistry;
 import com.yutong.beans.factory.support.GenericBeanDefinition;
 import com.yutong.core.io.Resource;
-import com.yutong.util.ClassUtils;
 import org.dom4j.Document;
-import org.dom4j.DocumentException;
 import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
 

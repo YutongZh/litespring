@@ -1,7 +1,7 @@
 package com.yutong.context;
 
-import com.yutong.beans.factory.BeanFactory;
+import com.yutong.beans.factory.config.ConfigurableBeanFactory;
 
-public interface ApplicationContext extends BeanFactory {
+public interface ApplicationContext extends ConfigurableBeanFactory {
 
 }
